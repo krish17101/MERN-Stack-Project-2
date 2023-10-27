@@ -57,11 +57,16 @@
     background-position: 97%;
    
 }
-.searchBox img{
-    
-    width: 11%;
-    padding-left: 100%;
 
+.vector{
+    margin-left: 16%;
+    align-items: center;
+}
+.vector img{
+    width: 30px;
+    margin: 50%;
+    float: left;
+    
 }
 
 /* Body  */
